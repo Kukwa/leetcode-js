@@ -1,9 +1,3 @@
-<style>
-E { color: Green }
-M { color: Orange }
-H { color: Red }
-</style>
-
 # Challenges
 
 ### 4. Median of Two Sorted Arrays
