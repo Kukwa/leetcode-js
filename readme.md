@@ -66,7 +66,7 @@
 - [Linkt to LeetCode](https://leetcode.com/problems/valid-square)
 - [link to solution](593.js)
 
-### Maximum Difference Between Node and Ancestor
+### 1026. Maximum Difference Between Node and Ancestor
 - Difficulty: Medium🟧
 - [Linkt to LeetCode](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)
 - [link to solution](1026.js)
