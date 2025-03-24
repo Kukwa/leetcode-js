@@ -6,6 +6,12 @@
 - [Linkt to LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [link to solution](4.js)
 
+### 5. Longest Palindromic Substring
+
+- Difficulty: Medium🟧
+- [Linkt to LeetCode](https://leetcode.com/problems/longest-palindromic-substring/description/)
+- [link to solution](5.js)
+
 ### 6. Zigzag Conversion
 
 - Difficulty: Easy🟩
